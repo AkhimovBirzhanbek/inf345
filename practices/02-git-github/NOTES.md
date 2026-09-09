@@ -4,4 +4,4 @@
 I learned how staging and commits work in Git.
 
 ## A command I want to remember
-(replace this line with an actual command and when you'd use it)
+git status — I use it to see which files have changed and what is staged.
